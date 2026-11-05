@@ -1,0 +1,890 @@
+{
+  "version": 2,
+  "themes": [
+    {
+      "id": "matrix_rain",
+      "name": "Matrix Rain",
+      "note": "hacker green + lime",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#000A04",
+        "panel": "#021A0B",
+        "main": "#00FF6A",
+        "mid": "#2DBE62",
+        "dim": "#0A5028",
+        "accent": "#D2FF3F",
+        "hand": "#B8FFD0",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "kali_blue",
+      "name": "Kali Blue",
+      "note": "hacker blue + mint",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#0B0F1A",
+        "panel": "#121A2B",
+        "main": "#4F8DF5",
+        "mid": "#7C9BD0",
+        "dim": "#1E2E52",
+        "accent": "#00E5A0",
+        "hand": "#D6E4FF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "blackhat",
+      "name": "Blackhat",
+      "note": "hacker green + red",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#050505",
+        "panel": "#120A0A",
+        "main": "#00FF41",
+        "mid": "#2FB04F",
+        "dim": "#0E4A1C",
+        "accent": "#FF1744",
+        "hand": "#C8FFD4",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ghost_shell",
+      "name": "Ghost Shell",
+      "note": "hacker white + green",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#05070A",
+        "panel": "#0C1118",
+        "main": "#E6EDF3",
+        "mid": "#8B98A8",
+        "dim": "#2A3441",
+        "accent": "#00FF88",
+        "hand": "#FFFFFF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "neon_grid",
+      "name": "Neon Grid",
+      "note": "hacker mint + pink",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#05010F",
+        "panel": "#120628",
+        "main": "#00FFA3",
+        "mid": "#2AB886",
+        "dim": "#3A1670",
+        "accent": "#FF2E88",
+        "hand": "#C9FFEA",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "red_team",
+      "name": "Red Team",
+      "note": "hacker red + green",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0204",
+        "panel": "#1A060A",
+        "main": "#FF4A4A",
+        "mid": "#D96870",
+        "dim": "#551018",
+        "accent": "#00FF9C",
+        "hand": "#FFD0D0",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "black_gold",
+      "name": "Black Gold",
+      "note": "premium gold",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#060504",
+        "panel": "#14110A",
+        "main": "#D4AF37",
+        "mid": "#A68A3A",
+        "dim": "#4A3C14",
+        "accent": "#F5E6A8",
+        "hand": "#FFF1C1",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "platinum",
+      "name": "Platinum",
+      "note": "premium silver",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#08090B",
+        "panel": "#14161A",
+        "main": "#E5E4E2",
+        "mid": "#A0A4AB",
+        "dim": "#3A3D44",
+        "accent": "#9DB8FF",
+        "hand": "#FFFFFF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "rose_gold",
+      "name": "Rose Gold",
+      "note": "premium rose gold",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#0B0607",
+        "panel": "#1C1012",
+        "main": "#E8B4A0",
+        "mid": "#B88A7C",
+        "dim": "#52342E",
+        "accent": "#FFD9C7",
+        "hand": "#FFF0E8",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "obsidian_blue",
+      "name": "Obsidian Blue",
+      "note": "premium blue + gold",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#03060D",
+        "panel": "#0A1224",
+        "main": "#6EA8FF",
+        "mid": "#6B88BD",
+        "dim": "#1C3158",
+        "accent": "#C9A227",
+        "hand": "#E3EEFF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "emerald_luxe",
+      "name": "Emerald Luxe",
+      "note": "premium emerald + gold",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#020B08",
+        "panel": "#06201A",
+        "main": "#2FE0A0",
+        "mid": "#3AA07F",
+        "dim": "#0E4A3A",
+        "accent": "#E6C255",
+        "hand": "#D5FFEE",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "royal_amethyst",
+      "name": "Royal Amethyst",
+      "note": "premium purple + gold",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#07030F",
+        "panel": "#160A2A",
+        "main": "#C08CFF",
+        "mid": "#9672C9",
+        "dim": "#3D1E70",
+        "accent": "#F0C75E",
+        "hand": "#EBDDFF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "carbon_red",
+      "name": "Carbon Red",
+      "note": "premium red + white",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#070707",
+        "panel": "#151515",
+        "main": "#FF5A5A",
+        "mid": "#D07878",
+        "dim": "#3A1A1A",
+        "accent": "#FFFFFF",
+        "hand": "#FFD6D6",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "titanium",
+      "name": "Titanium",
+      "note": "premium steel + amber",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0C0E",
+        "panel": "#15191D",
+        "main": "#9FB4C7",
+        "mid": "#7C8EA0",
+        "dim": "#2E3945",
+        "accent": "#FFB703",
+        "hand": "#E1ECF5",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "champagne",
+      "name": "Champagne",
+      "note": "premium light gold",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#FBF6EC",
+        "panel": "#FFFFFF",
+        "main": "#8A5C0C",
+        "mid": "#6E5A36",
+        "dim": "#DCCFAE",
+        "accent": "#0F5E9C",
+        "hand": "#3D2A07",
+        "hi": "#1F1606"
+      }
+    },
+    {
+      "id": "pearl",
+      "name": "Pearl",
+      "note": "premium light indigo",
+      "group": "PREMIUM & HACKER",
+      "locked": true,
+      "colors": {
+        "bg": "#F4F5F8",
+        "panel": "#FFFFFF",
+        "main": "#3D4A8C",
+        "mid": "#5F6A8C",
+        "dim": "#C9CEDD",
+        "accent": "#C2185B",
+        "hand": "#1B2250",
+        "hi": "#11142B"
+      }
+    },
+    {
+      "id": "stealth_mono",
+      "name": "Stealth Mono",
+      "note": "grey / white only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#000000",
+        "panel": "#101214",
+        "main": "#D0D7DE",
+        "mid": "#9AA5B1",
+        "dim": "#3A424A",
+        "accent": "#FFFFFF",
+        "hand": "#E8EEF4",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "electric_cyan",
+      "name": "Electric Cyan",
+      "note": "cyan only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#000B0D",
+        "panel": "#03191D",
+        "main": "#00E5FF",
+        "mid": "#2FA8B8",
+        "dim": "#0B4A52",
+        "accent": "#8CF3FF",
+        "hand": "#D9FBFF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "neon_orange",
+      "name": "Neon Orange",
+      "note": "orange only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0500",
+        "panel": "#1A0E00",
+        "main": "#FF8A00",
+        "mid": "#C27A1C",
+        "dim": "#5A3300",
+        "accent": "#FFB866",
+        "hand": "#FFE3BD",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "hot_pink",
+      "name": "Hot Pink",
+      "note": "pink only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0007",
+        "panel": "#1C0412",
+        "main": "#FF2E93",
+        "mid": "#DC6199",
+        "dim": "#5A0F35",
+        "accent": "#FF8AC4",
+        "hand": "#FFD1E8",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "pure_purple",
+      "name": "Pure Purple",
+      "note": "purple only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#060010",
+        "panel": "#12062A",
+        "main": "#A855FF",
+        "mid": "#9F78DE",
+        "dim": "#3B1470",
+        "accent": "#CFA3FF",
+        "hand": "#EBD9FF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "note": "lime only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#050800",
+        "panel": "#0F1700",
+        "main": "#B6FF00",
+        "mid": "#8DBF1A",
+        "dim": "#3D5200",
+        "accent": "#DDFF70",
+        "hand": "#F0FFB8",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "teal",
+      "name": "Teal",
+      "note": "teal only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#000D0B",
+        "panel": "#03201C",
+        "main": "#00BFA5",
+        "mid": "#1F9484",
+        "dim": "#05423B",
+        "accent": "#5CEBD2",
+        "hand": "#C9FFF3",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "note": "rose only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#0C0505",
+        "panel": "#1C0D0D",
+        "main": "#FF9E9E",
+        "mid": "#C27A7A",
+        "dim": "#5A2A2A",
+        "accent": "#FFC4C4",
+        "hand": "#FFE8E8",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "deep_blue",
+      "name": "Deep Blue",
+      "note": "blue only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#000614",
+        "panel": "#03102B",
+        "main": "#3D7BFF",
+        "mid": "#6F90D9",
+        "dim": "#14307A",
+        "accent": "#8FB2FF",
+        "hand": "#DCE7FF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "solar_yellow",
+      "name": "Solar Yellow",
+      "note": "yellow only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0900",
+        "panel": "#1A1700",
+        "main": "#FFE600",
+        "mid": "#BFB11A",
+        "dim": "#5A5200",
+        "accent": "#FFF176",
+        "hand": "#FFFAC2",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "signal_red",
+      "name": "Signal Red",
+      "note": "red only",
+      "group": "ONE COLOR",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0000",
+        "panel": "#1A0303",
+        "main": "#FF1F1F",
+        "mid": "#DE5A5A",
+        "dim": "#5A0A0A",
+        "accent": "#FF7A7A",
+        "hand": "#FFC9C9",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "amber_yellow",
+      "name": "Amber Yellow",
+      "note": "yellow + cyan",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0800",
+        "panel": "#1A1400",
+        "main": "#FFD60A",
+        "mid": "#B89B1C",
+        "dim": "#5A4A00",
+        "accent": "#00E5FF",
+        "hand": "#FFF3B0",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "crimson_red",
+      "name": "Crimson Red",
+      "note": "red + amber",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0000",
+        "panel": "#1A0505",
+        "main": "#FF2D3A",
+        "mid": "#D2575F",
+        "dim": "#5A0A10",
+        "accent": "#FFB300",
+        "hand": "#FFC9CD",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "cyberpunk",
+      "name": "Cyberpunk",
+      "note": "cyan + magenta",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0014",
+        "panel": "#160028",
+        "main": "#00F0FF",
+        "mid": "#3AA9B5",
+        "dim": "#3B1466",
+        "accent": "#FF2BD6",
+        "hand": "#B8FBFF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "note": "orange + purple",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0D0508",
+        "panel": "#1E0A18",
+        "main": "#FF7A1A",
+        "mid": "#C0703A",
+        "dim": "#5A2250",
+        "accent": "#C77DFF",
+        "hand": "#FFD2A8",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "aqua_mint",
+      "name": "Aqua Mint",
+      "note": "mint + blue",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#001014",
+        "panel": "#002026",
+        "main": "#1DE9B6",
+        "mid": "#2BA58A",
+        "dim": "#0B4D55",
+        "accent": "#40C4FF",
+        "hand": "#C8FFF0",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "inferno",
+      "name": "Inferno",
+      "note": "orange + yellow",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0300",
+        "panel": "#1E0A00",
+        "main": "#FF4A00",
+        "mid": "#DB6A30",
+        "dim": "#5A2000",
+        "accent": "#FFE100",
+        "hand": "#FFD9B0",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "royal_violet",
+      "name": "Royal Violet",
+      "note": "violet + mint",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#07000F",
+        "panel": "#140028",
+        "main": "#B36BFF",
+        "mid": "#A67CDF",
+        "dim": "#3A1470",
+        "accent": "#69F0AE",
+        "hand": "#E6D2FF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "toxic",
+      "name": "Toxic",
+      "note": "green + yellow",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#030800",
+        "panel": "#0C1600",
+        "main": "#39FF14",
+        "mid": "#3DB02B",
+        "dim": "#1A4D0A",
+        "accent": "#FFEA00",
+        "hand": "#D9FFC2",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ocean_fire",
+      "name": "Ocean Fire",
+      "note": "blue + orange",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#020812",
+        "panel": "#07182C",
+        "main": "#2D9CFF",
+        "mid": "#4A86C5",
+        "dim": "#123A66",
+        "accent": "#FF7A1A",
+        "hand": "#D6EBFF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "candy",
+      "name": "Candy",
+      "note": "pink + yellow",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0C0510",
+        "panel": "#1E0A24",
+        "main": "#FF5CAD",
+        "mid": "#C2508A",
+        "dim": "#5A1A4A",
+        "accent": "#FFE066",
+        "hand": "#FFD6EC",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "emerald_gold",
+      "name": "Emerald Gold",
+      "note": "green + gold",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#010A06",
+        "panel": "#06180F",
+        "main": "#2ECC71",
+        "mid": "#2E9E5B",
+        "dim": "#0B4A2A",
+        "accent": "#FFC107",
+        "hand": "#C9F5DD",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "midnight",
+      "name": "Midnight",
+      "note": "indigo + cyan",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#04041A",
+        "panel": "#0A0A30",
+        "main": "#7C8CFF",
+        "mid": "#7B89DE",
+        "dim": "#1E2470",
+        "accent": "#00E5FF",
+        "hand": "#DDE1FF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "lava",
+      "name": "Lava",
+      "note": "red + purple",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0008",
+        "panel": "#1C0414",
+        "main": "#FF3D5A",
+        "mid": "#DE5D75",
+        "dim": "#4D0A3A",
+        "accent": "#B06BFF",
+        "hand": "#FFD0D8",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "forest",
+      "name": "Forest",
+      "note": "green + amber",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#050A03",
+        "panel": "#0F1A08",
+        "main": "#7ED957",
+        "mid": "#63A844",
+        "dim": "#2A4A15",
+        "accent": "#D9A441",
+        "hand": "#E2F7D4",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "frost",
+      "name": "Frost",
+      "note": "ice + mint",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#030A12",
+        "panel": "#0A1A2A",
+        "main": "#BFE6FF",
+        "mid": "#7FA6C4",
+        "dim": "#264660",
+        "accent": "#4DFFD2",
+        "hand": "#FFFFFF",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "tropical",
+      "name": "Tropical",
+      "note": "teal + orange",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#00100E",
+        "panel": "#03221E",
+        "main": "#14D9C0",
+        "mid": "#22A592",
+        "dim": "#0B4D45",
+        "accent": "#FF8A3D",
+        "hand": "#C8FFF6",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "vaporwave",
+      "name": "Vaporwave",
+      "note": "pink + blue",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0420",
+        "panel": "#180A3A",
+        "main": "#FF71CE",
+        "mid": "#B05A98",
+        "dim": "#3A1A70",
+        "accent": "#01CDFE",
+        "hand": "#FFD6F0",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "amber_terminal",
+      "name": "Amber Terminal",
+      "note": "amber + green",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0600",
+        "panel": "#1A1000",
+        "main": "#FFB000",
+        "mid": "#BF8A1C",
+        "dim": "#5A3D00",
+        "accent": "#33FF33",
+        "hand": "#FFE2A0",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "royal_gold",
+      "name": "Royal Gold",
+      "note": "gold + purple",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#08000F",
+        "panel": "#160A2A",
+        "main": "#FFC83D",
+        "mid": "#BF9A2E",
+        "dim": "#4A1A80",
+        "accent": "#B36BFF",
+        "hand": "#FFE9AD",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "coral_reef",
+      "name": "Coral Reef",
+      "note": "coral + teal",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#0A0404",
+        "panel": "#1C0B0B",
+        "main": "#FF6F61",
+        "mid": "#C2584D",
+        "dim": "#5A2420",
+        "accent": "#2DE0C8",
+        "hand": "#FFD6D1",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "note": "mint + violet",
+      "group": "TWO COLORS",
+      "locked": true,
+      "colors": {
+        "bg": "#020A0A",
+        "panel": "#061C1A",
+        "main": "#3DFFB0",
+        "mid": "#2DB27B",
+        "dim": "#0B4D3A",
+        "accent": "#B06BFF",
+        "hand": "#D0FFEA",
+        "hi": "#FFFFFF"
+      }
+    },
+    {
+      "id": "daylight",
+      "name": "Daylight",
+      "note": "light mode",
+      "group": "LIGHT MODE",
+      "locked": true,
+      "colors": {
+        "bg": "#F2F6FA",
+        "panel": "#FFFFFF",
+        "main": "#0B63CE",
+        "mid": "#4A6A8A",
+        "dim": "#B8C7D9",
+        "accent": "#D81B60",
+        "hand": "#0B2A52",
+        "hi": "#0A1A2A"
+      }
+    },
+    {
+      "id": "paper_green",
+      "name": "Paper Green",
+      "note": "light green",
+      "group": "LIGHT MODE",
+      "locked": true,
+      "colors": {
+        "bg": "#F3F8F1",
+        "panel": "#FFFFFF",
+        "main": "#1B7F3B",
+        "mid": "#4A7A58",
+        "dim": "#BFD6C6",
+        "accent": "#E65100",
+        "hand": "#0F3D1E",
+        "hi": "#0A1A10"
+      }
+    },
+    {
+      "id": "sand",
+      "name": "Sand",
+      "note": "light warm",
+      "group": "LIGHT MODE",
+      "locked": true,
+      "colors": {
+        "bg": "#FAF4E8",
+        "panel": "#FFFFFF",
+        "main": "#B45309",
+        "mid": "#8A6A4A",
+        "dim": "#DCCBB0",
+        "accent": "#0B63CE",
+        "hand": "#4A2A0A",
+        "hi": "#2A1A0A"
+      }
+    },
+    {
+      "id": "phantom",
+      "name": "Phantom",
+      "note": "secret",
+      "group": "SECRET",
+      "locked": false,
+      "colors": {
+        "bg": "#000000",
+        "panel": "#0C0C0C",
+        "main": "#FFFFFF",
+        "mid": "#BDBDBD",
+        "dim": "#444444",
+        "accent": "#FF1744",
+        "hand": "#FFFFFF",
+        "hi": "#FFFFFF"
+      },
+      "hidden": true
+    }
+  ]
+    }
